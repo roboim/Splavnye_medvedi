@@ -26,4 +26,4 @@ route1 = KayakingRoute('Суна', 'Карелия','Поросозеро', '62.
                         50.0, 2022, 4.0, 1100.0, '1 день катались на пороге',
                         'много', 'нет', 'нет')
 print(route1.__dict__)
-print("Test")
+print("Test_start_approved")
